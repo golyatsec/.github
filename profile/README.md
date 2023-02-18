@@ -9,6 +9,7 @@ Golyatsec is a group of people who are interested in the development of informat
 - [x] Protection of discord guilds
 - [x] Protection of websites
 
-## Our website
+## Our projects
 
 - [x] [Golyatsec](https://golyatsec.com/)
+- [x] [Golyatsec Guard](https://discord.com/oauth2/authorize?client_id=874082406343278623&scope=bot%20applications.commands&permissions=2147486728)
